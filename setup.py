@@ -8,7 +8,7 @@ setup(
   author = 'TaoHuang',                   # Type in your name
   author_email = '294319556@qq.com',      # Type in your E-Mail
   url = 'https://github.com/huangtaosdt/hadoop_util',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/huangtaosdt/hadoop_util/archive/refs/tags/v0.1.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/huangtaosdt/hadoop_util/archive/refs/tags/v_02.tar.gz',    # I explain this later on
   keywords = ['HADOOP', 'HDFS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
       ],
